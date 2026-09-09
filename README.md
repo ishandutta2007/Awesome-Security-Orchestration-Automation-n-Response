@@ -91,7 +91,7 @@ The SOAR market has increasingly divided into two models:
 
 This leaderboard curates premier open-source repositories powering modern security orchestration, incident response, threat-intelligence automation, and autonomous SOC architectures.
 
-| 🏆 Project | 📦 Domain / Focus | ⭐ GitHub Stars | 📜 License | 🔗 Stargazers Link |
+| 🏆 Project | 📦 Domain / Focus | ⭐ GitHub_Stars | 📜 License | 🔗 Stargazers Link |
 | :--- | :--- | :--- | :--- | :--- |
 | **[n8n](https://github.com/n8n-io/n8n)** | Workflow Automation & AI Orchestration | [![Stars](https://img.shields.io/github/stars/n8n-io/n8n?style=social&color=white)](https://github.com/n8n-io/n8n/stargazers) | Fair-code / Sustainable | [Stargazers](https://github.com/n8n-io/n8n/stargazers) |
 | **[Elasticsearch](https://github.com/elastic/elasticsearch)** | Security Analytics & Data Lake Search | [![Stars](https://img.shields.io/github/stars/elastic/elasticsearch?style=social&color=white)](https://github.com/elastic/elasticsearch/stargazers) | Elastic License / AGPL | [Stargazers](https://github.com/elastic/elasticsearch/stargazers) |
